@@ -7,7 +7,7 @@
 
 Here is a taste of apps that I've designed and built.
 
-![Sample Screenshots](https://github.com/danseethaler/danseethaler/blob/main/screens_sample.png?raw=true)
+![Sample Screenshots](https://github.com/danseethaler/danseethaler/blob/main/screens_previews.png?raw=true)
 
 #### Let's talk
 * LinkedIn - [@danseethaler](https://www.linkedin.com/in/danseethaler/)
